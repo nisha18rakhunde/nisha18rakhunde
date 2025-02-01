@@ -18,8 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nisha-rakhunde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisha rakhunde" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/nisha rakhunde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nisha rakhunde" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nishaaa18_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishaaa18_" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/nisharakhunde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nisha rakhunde" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nisha_r18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nisha_r18" height="30" width="40" /></a>
 </p>
 
